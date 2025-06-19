@@ -1,0 +1,23 @@
+[project]
+name = "ncach"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "coqui-tts>=0.26.2",
+    "elevenlabs>=2.1.0",
+    "hangul-romanize>=0.1.0",
+    "jupyter>=1.1.1",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.24",
+    "langchain-openai>=0.3.18",
+    "playsound==1.2.2",
+    "pyaudio>=0.2.14",
+    "python-dotenv>=1.1.0",
+    "speechrecognition>=3.14.3",
+    "streamlit>=1.45.1",
+    "youtube-transcript-api>=1.1.0",
+    "yt-dlp>=2025.6.9",
+]
